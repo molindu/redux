@@ -1,0 +1,2 @@
+# redux
+simple redux project
